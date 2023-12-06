@@ -50,7 +50,7 @@ The dataset used in this project comprises voice recordings from individuals wit
    streamlit app.py run
    ```
 Include a screenshot or image of your graphical user interface (GUI) here:
-![GUI Image](Screenshot 2023-12-07 001139.png)
+![GUI Image](screenshots/Screenshot 2023-12-07 001139.png)
 
 ## Results
 
