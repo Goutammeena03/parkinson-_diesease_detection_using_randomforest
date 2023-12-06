@@ -1,7 +1,3 @@
-Certainly! Below is a template for a README.md file for your Parkinson's disease project using voice data and a model trained on Random Forest. Feel free to customize it based on your project specifics:
-
----
-
 # Parkinson's Disease Detection using Voice Data and Random Forest
 
 ## Overview
@@ -49,10 +45,13 @@ The dataset used in this project comprises voice recordings from individuals wit
    ```
 
    This script will preprocess the data, split it into training and testing sets, train the Random Forest model, and evaluate its performance.
-## gui using stream lit 
+## GUI using stream lit 
    ```bash
    streamlit app.py run
    ```
+Include a screenshot or image of your graphical user interface (GUI) here:
+![GUI Image](Screenshot 2023-12-07 001139.png)
+
 ## Results
 
 Document the performance metrics and any relevant findings from the model evaluation. Include charts or graphs if applicable.
