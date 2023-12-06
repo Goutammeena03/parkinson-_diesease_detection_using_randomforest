@@ -50,8 +50,7 @@ The dataset used in this project comprises voice recordings from individuals wit
    streamlit app.py run
    ```
 Include a screenshot or image of your graphical user interface (GUI) here:
-![screenshots/Screenshot 2023-12-07 001139.png](https://github.com/Goutammeena03/parkinson-_diesease_detection_using_randomforest/blob/main/screenshots/Screenshot%202023-12-07%20001139.png)
-
+![screenshots/Screenshot 2023-12-07 001139.png](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.adobe.com%2Fin%2Fexpress%2Ffeature%2Fimage%2Fmedia_16ad2258cac6171d66942b13b8cd4839f0b6be6f3.png%3Fwidth%3D750%26format%3Dpng%26optimize%3Dmedium&tbnid=vDwLTpPVm0W-4M&vet=12ahUKEwjBlp6VwPuCAxUL9qACHUGDA0MQMygDegQIARB0..i&imgrefurl=https%3A%2F%2Fwww.adobe.com%2Fin%2Fexpress%2Ffeature%2Fimage%2Fpng&docid=ZT10UzFBfptftM&w=750&h=579&q=png%20image&ved=2ahUKEwjBlp6VwPuCAxUL9qACHUGDA0MQMygDegQIARB0)
 ## Results
 
 Document the performance metrics and any relevant findings from the model evaluation. Include charts or graphs if applicable.
