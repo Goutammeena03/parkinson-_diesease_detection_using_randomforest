@@ -24,7 +24,7 @@ The dataset used in this project comprises voice recordings from individuals wit
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/parkinsons-voice-detection.git
+   git clone https://github.com/Goutammeena03/parkinson-_diesease_detection_using_randomforest.git
    cd parkinsons-voice-detection
    ```
 
@@ -45,21 +45,14 @@ The dataset used in this project comprises voice recordings from individuals wit
    Train the Random Forest model using the provided script:
 
    ```bash
-   python train_model.py
+   python .py
    ```
 
    This script will preprocess the data, split it into training and testing sets, train the Random Forest model, and evaluate its performance.
-
-3. **Prediction:**
-
-   Use the trained model to predict Parkinson's disease from new voice recordings:
-
+## gui using stream lit 
    ```bash
-   python predict.py -f path/to/new/voice/recording.wav
+   streamlit app.py run
    ```
-
-   Replace `path/to/new/voice/recording.wav` with the actual path to the new voice recording you want to classify.
-
 ## Results
 
 Document the performance metrics and any relevant findings from the model evaluation. Include charts or graphs if applicable.
@@ -76,6 +69,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 List any acknowledgments or references to other projects, libraries, or resources that contributed to the development of this project.
 
----
 
-Feel free to adapt the sections based on your project's specific details and requirements. Additionally, make sure to include the necessary files like `train_model.py`, `predict.py`, and the `LICENSE` file in your repository.
